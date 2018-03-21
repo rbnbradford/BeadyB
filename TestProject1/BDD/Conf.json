@@ -1,0 +1,9 @@
+﻿{
+  "Numbers": [
+    "AddAllNumbersContext"
+  ],
+  "BigNumbers": [
+    "AddBigNumbersContext",
+    "AddAllNumbersContext"
+  ]
+}

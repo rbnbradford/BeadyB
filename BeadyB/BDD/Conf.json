@@ -1,0 +1,9 @@
+﻿{
+  "Feat1": [
+    "MyContext1",
+    "MyContext2"
+  ],
+  "Feat2": [
+    "MyContext1"
+  ]
+}
